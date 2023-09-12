@@ -1,0 +1,29 @@
+_repo: Books-and-their-makers-during-the-Middle-Ages-b-A-study-of-the-conditions-of-the-production-a__71536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Putnam, Geo. Haven
+    gutenberg_agent_id: '56274'
+    url: http://www.gutenberg.org/2009/agents/56274
+description: ''
+gutenberg_issued: '2023-09-01'
+identifiers:
+  gutenberg: '71536'
+language: en
+pgterms:marc904: https://archive.org/details/bookstheirmakers01putn
+pgterms:marc905: 20201219192011putnamam
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: Charlene Taylor, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Books and their makers during the Middle Ages : $b A study of the conditions
+  of the production and distribution of literature from the fall of the Roman Empire
+  to the close of the Seventeenth Century, Vol. I'
+url: http://www.gutenberg.org/ebooks/71536
