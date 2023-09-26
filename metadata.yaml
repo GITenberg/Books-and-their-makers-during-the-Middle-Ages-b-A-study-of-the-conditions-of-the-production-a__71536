@@ -1,11 +1,16 @@
 _repo: Books-and-their-makers-during-the-Middle-Ages-b-A-study-of-the-conditions-of-the-production-a__71536
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71536-h/images/cover.jpg
 creator:
   author:
     agent_name: Putnam, Geo. Haven
     gutenberg_agent_id: '56274'
     url: http://www.gutenberg.org/2009/agents/56274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71536#Books-and-their-makers-during-the-Middle-Ages-b-A-study-of-the-conditions-of-the-production-a_
 gutenberg_issued: '2023-09-01'
 identifiers:
   gutenberg: '71536'
